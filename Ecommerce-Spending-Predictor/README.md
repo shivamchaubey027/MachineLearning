@@ -26,19 +26,8 @@ The dataset contains customer details such as:
 - `dataset.csv` → Dataset used for training  
 - `README.md` → Project description  
 
-## **How to Run**  
-1. Clone the repository  
-   ```bash
-   git clone 
-   cd 
-   ```
-2. Install dependencies  
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebook  
 
 ## **Future Improvements**  
 - May Try **Polynomial Regression** or **Decision Trees** for better predictions  
 - Add **real-time prediction API** for business use  
-- Include **more customer behavior features** to improve accuracy  
+
